@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meet-me-now/static/css/main.34ba852c.css",
+    "main.js": "/meet-me-now/static/js/main.2861b39f.js",
+    "index.html": "/meet-me-now/index.html",
+    "main.34ba852c.css.map": "/meet-me-now/static/css/main.34ba852c.css.map",
+    "main.2861b39f.js.map": "/meet-me-now/static/js/main.2861b39f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34ba852c.css",
+    "static/js/main.2861b39f.js"
+  ]
+}
